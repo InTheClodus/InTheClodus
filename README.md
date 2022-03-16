@@ -16,7 +16,7 @@
 -->
 <!-- -  🔭 I’m currently working on [TakeIn](https://takein.com/), [The Flutter Way](https://www.youtube.com/channel/UCJm7i4g4z7ZGcJA_HKHLCVw) -->
 
-- 🌱 I’m currently learning **Flutter, Andr**
+- 🌱 I’m currently learning **Flutter, Android
 
 - 👯 I’m looking to collaborate with **other content creators**
 
