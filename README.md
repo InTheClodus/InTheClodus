@@ -2,7 +2,7 @@
 <h3 align="center">Personal programmer with two and a half years of practice😜</h3>
 <pre>
 ----------------------------------------
-<span>Zendy, Hello World!!</span>
+<span>Chihiro, Hello World!!</span>
 ----------------------------------------
       \   ^__^
        \  (oo)\_______
