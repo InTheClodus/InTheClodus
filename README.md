@@ -38,7 +38,7 @@
       <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="22" height="22"/> 
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="22" height="22"/>
       <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuanwar072&layout=compact&hide=html" alt="abuanwar072"/>
-
+</p>
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abuanwar072&show_icons=true" alt="abuanwar072" /></p>-->
 
 
