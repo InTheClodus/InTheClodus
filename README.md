@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chihiro</h1>
-<h3 align="center">Personal programmer with two and a half years of practice😜</h3>
+<h3 align="center">Hi everyone, I'm Chihiro, a personal programmer who has been practicing for two and a half years.😜</h3>
 <pre>
 ----------------------------------------
 <span>Chihiro, Hello World!!</span>
