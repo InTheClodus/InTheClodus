@@ -37,7 +37,6 @@
       <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="22" height="22"/> 
       <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="22" height="22"/> 
       <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg" alt="kotlin" width="22" height="22"/> 
-      
       <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java" width="22" height="22"/> 
       <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="Spring" width="22" height="22"/> 
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="22" height="22"/> 
