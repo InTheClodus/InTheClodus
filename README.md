@@ -1,4 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=%E9%94%99%E8%AF%AF%E7%9A%84&vCenter=%E9%94%99%E8%AF%AF%E7%9A%84&lines=Hi+%F0%9F%91%8B%2C+I'm+Chihiro)](https://git.io/typing-svg)
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=&vCenter=&lines=Hi+everyone%2C+I'm+Chihiro%2C+a+personal+programmer+who+has+been+practicing+for+two+and+a+half+years.%F0%9F%98%9C)](https://git.io/typing-svg)
+
 ----------------------------------------
 <span>Chihiro, Hello World!!</span>
 ----------------------------------------
@@ -7,7 +11,7 @@
           (__)\ 0   0 )\  *
               ||--0-w | \/
               ||     ||
-</pre>
+
 <!--
 ![Twitter Follow](https://img.shields.io/twitter/follow/abuanwar072?label=Abuanwar072&logo=twitter&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/abuanwar072?logo=GitHub&style=for-the-badge)
