@@ -1,6 +1,4 @@
-<h1 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=%E9%94%99%E8%AF%AF%E7%9A%84&vCenter=%E9%94%99%E8%AF%AF%E7%9A%84&lines=Hi+%F0%9F%91%8B%2C+I'm+Chihiro)](https://git.io/typing-svg)</h1>
-<h3 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=%E9%94%99%E8%AF%AF%E7%9A%84&vCenter=%E9%94%99%E8%AF%AF%E7%9A%84&lines=Hi+everyone%2C+I'm+Chihiro%2C+a+personal+programmer+who+has+been+practicing+for+two+and+a+half+years.%F0%9F%98%9C)](https://git.io/typing-svg)</h3>
-<pre>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=%E9%94%99%E8%AF%AF%E7%9A%84&vCenter=%E9%94%99%E8%AF%AF%E7%9A%84&lines=Hi+%F0%9F%91%8B%2C+I'm+Chihiro)](https://git.io/typing-svg)
 ----------------------------------------
 <span>Chihiro, Hello World!!</span>
 ----------------------------------------
