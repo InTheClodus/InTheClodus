@@ -18,9 +18,9 @@
 
 - 🌱 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=%E9%94%99%E8%AF%AF%E7%9A%84&vCenter=%E9%94%99%E8%AF%AF%E7%9A%84&lines=+I%E2%80%99m+currently+learning+SpringBoot%2CFlutter%2C+Android)](https://git.io/typing-svg)
 
-- 👯 I’m looking to collaborate with **other content creators**
+- 👯 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=%E9%94%99%E8%AF%AF%E7%9A%84&vCenter=%E9%94%99%E8%AF%AF%E7%9A%84&lines=+I%E2%80%99m+looking+to+collaborate+with+other+content+creators)](https://git.io/typing-svg)
 
-- ⚡ Fun fact **I love to play Badminton and Chai over coffee.**
+- ⚡ [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=%E9%94%99%E8%AF%AF%E7%9A%84&vCenter=%E9%94%99%E8%AF%AF%E7%9A%84&lines=I+like+chasing+dramas%2C+watching+anime+and+playing+games)](https://git.io/typing-svg)
 
 <!--### Connect with me:
 
