@@ -16,7 +16,7 @@
 -->
 <!-- -  🔭 I’m currently working on [TakeIn](https://takein.com/), [The Flutter Way](https://www.youtube.com/channel/UCJm7i4g4z7ZGcJA_HKHLCVw) -->
 
-- 🌱 I’m currently learning **Flutter, Android
+- 🌱 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=%E9%94%99%E8%AF%AF%E7%9A%84&vCenter=%E9%94%99%E8%AF%AF%E7%9A%84&lines=+I%E2%80%99m+currently+learning+SpringBoot%2CFlutter%2C+Android)](https://git.io/typing-svg)
 
 - 👯 I’m looking to collaborate with **other content creators**
 
