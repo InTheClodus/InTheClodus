@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Chihiro</h1>
-<h3 align="center">Hi everyone, I'm Chihiro, a personal programmer who has been practicing for two and a half years.😜</h3>
+<h1 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=%E9%94%99%E8%AF%AF%E7%9A%84&vCenter=%E9%94%99%E8%AF%AF%E7%9A%84&lines=Hi+%F0%9F%91%8B%2C+I'm+Chihiro)](https://git.io/typing-svg)</h1>
+<h3 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=%E9%94%99%E8%AF%AF%E7%9A%84&vCenter=%E9%94%99%E8%AF%AF%E7%9A%84&lines=Hi+everyone%2C+I'm+Chihiro%2C+a+personal+programmer+who+has+been+practicing+for+two+and+a+half+years.%F0%9F%98%9C)](https://git.io/typing-svg)</h3>
 <pre>
 ----------------------------------------
 <span>Chihiro, Hello World!!</span>
@@ -16,11 +16,11 @@
 -->
 <!-- -  🔭 I’m currently working on [TakeIn](https://takein.com/), [The Flutter Way](https://www.youtube.com/channel/UCJm7i4g4z7ZGcJA_HKHLCVw) -->
 
-- 🌱 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=%E9%94%99%E8%AF%AF%E7%9A%84&vCenter=%E9%94%99%E8%AF%AF%E7%9A%84&lines=+I%E2%80%99m+currently+learning+SpringBoot%2CFlutter%2C+Android)](https://git.io/typing-svg)
+-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=%E9%94%99%E8%AF%AF%E7%9A%84&vCenter=%E9%94%99%E8%AF%AF%E7%9A%84&lines=+I%E2%80%99m+currently+learning+SpringBoot%2CFlutter%2C+Android)](https://git.io/typing-svg)
 
-- 👯 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=%E9%94%99%E8%AF%AF%E7%9A%84&vCenter=%E9%94%99%E8%AF%AF%E7%9A%84&lines=+I%E2%80%99m+looking+to+collaborate+with+other+content+creators)](https://git.io/typing-svg)
+-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=%E9%94%99%E8%AF%AF%E7%9A%84&vCenter=%E9%94%99%E8%AF%AF%E7%9A%84&lines=+I%E2%80%99m+looking+to+collaborate+with+other+content+creators)](https://git.io/typing-svg)
 
-- ⚡ [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=%E9%94%99%E8%AF%AF%E7%9A%84&vCenter=%E9%94%99%E8%AF%AF%E7%9A%84&lines=I+like+chasing+dramas%2C+watching+anime+and+playing+games)](https://git.io/typing-svg)
+-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=%E9%94%99%E8%AF%AF%E7%9A%84&vCenter=%E9%94%99%E8%AF%AF%E7%9A%84&lines=I+like+chasing+dramas%2C+watching+anime+and+playing+games)](https://git.io/typing-svg)
 
 <!--### Connect with me:
 
