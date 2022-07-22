@@ -9,18 +9,6 @@
               ||--0-w | \/
               ||     ||
 
-<!--
-![Twitter Follow](https://img.shields.io/twitter/follow/abuanwar072?label=Abuanwar072&logo=twitter&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/abuanwar072?logo=GitHub&style=for-the-badge)
--->
-<!-- -  🔭 I’m currently working on [TakeIn](https://takein.com/), [The Flutter Way](https://www.youtube.com/channel/UCJm7i4g4z7ZGcJA_HKHLCVw) -->
-
--  [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=%E9%94%99%E8%AF%AF%E7%9A%84&vCenter=%E9%94%99%E8%AF%AF%E7%9A%84&lines=+I%E2%80%99m+currently+learning+SpringBoot%2CFlutter%2C+Android)](https://git.io/typing-svg)
-
--  [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=%E9%94%99%E8%AF%AF%E7%9A%84&vCenter=%E9%94%99%E8%AF%AF%E7%9A%84&lines=+I%E2%80%99m+looking+to+collaborate+with+other+content+creators)](https://git.io/typing-svg)
-
--  [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=%E9%94%99%E8%AF%AF%E7%9A%84&vCenter=%E9%94%99%E8%AF%AF%E7%9A%84&lines=I+like+chasing+dramas%2C+watching+anime+and+playing+games)](https://git.io/typing-svg)
-
 <!--### Connect with me:
 
 <a href="https://twitter.com/abuanwar072" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="abuanwar072" height="22" width="22" /></a>
